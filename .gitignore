@@ -1,0 +1,6 @@
+*.h5
+*.png
+.ipynb_checkpoints/
+*.jpg
+data1/
+__pycache__/
